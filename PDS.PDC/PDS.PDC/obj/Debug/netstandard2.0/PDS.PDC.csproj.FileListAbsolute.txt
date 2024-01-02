@@ -5,12 +5,6 @@ C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\bin\Debug\netstandard2.0\PDS
 C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\PDS.PDC.csproj.AssemblyReference.cache
 C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\PDS.PDC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
-C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
-C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
-C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
-C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
-C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\PDS.PDC.AssemblyInfoInputs.cache
 C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\PDS.PDC.AssemblyInfo.cs
 C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\PDS.PDC.csproj.CoreCompileInputs.cache
@@ -18,4 +12,4 @@ C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Xam
 C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\PDS.PDC.dll
 C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\refint\PDS.PDC.dll
 C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\PDS.PDC.pdb
-C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Views\PG_Inicio.xaml.g.cs
