@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDS.PDC.Page1"
+             Title = "Bienvenido" Background="lightGray">
+    
+    <StackLayout >
+
+        <StackLayout BackgroundColor="CadetBlue" VerticalOptions="Start" >
+            <Label
+                Text ="Bienvenido Cervecero"
+                    TextColor="White" 
+                    FontSize="25" 
+                    HorizontalOptions="Start" 
+                    Margin="40,20">
+            </Label>
+
+         
+        </StackLayout>
+        
+        <StackLayout VerticalOptions="Center">
+           
+            <Frame Margin="50,200" CornerRadius="20">
+                
+                <StackLayout>
+                    <Entry
+                       Placeholder="Usuario" x:Name="TxtUsuario" TextColor="Black">
+                    </Entry>
+                     <Entry
+                       Placeholder="Contraseña" x:Name="TxtContraseña" TextColor="Black" IsPassword="True"> 
+                    
+                    </Entry>
+                    
+                    <Label
+                        Text="Registrar Usuario"
+                        TextColor="Gray"
+                        
+                        FontSize="15"
+                        Margin="10,5">
+                    </Label>
+
+                    <Label
+                        
+                      Text= "Recuperar cuenta" 
+                      TextColor="Gray"
+                      FontSize="16"
+                      Margin="10,5,0,10">
+
+                    </Label>
+
+
+                    <Button
+                        Text="Ingresar"
+                        TextColor="Black"
+                        Font="20"
+                        CornerRadius="20">
+                        
+                    </Button>
+                    
+                </StackLayout>
+                
+            </Frame>
+        </StackLayout>
+
+
+    </StackLayout>
+
+
+</ContentPage>

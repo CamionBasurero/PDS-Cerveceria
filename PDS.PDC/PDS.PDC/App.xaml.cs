@@ -1,5 +1,5 @@
 ﻿using PDS.PDC.Services;
-using PDS.PDC.Views;
+
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
