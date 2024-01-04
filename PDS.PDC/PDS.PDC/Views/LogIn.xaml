@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDS.PDC.Views.LogIn"
+             Visual="Material"
+             Title = "Bienvenido" Background="lightGray">
+
+    <StackLayout >
+
+
+       
+
+        <StackLayout VerticalOptions="Center">
+
+            <Frame Margin="50,200" CornerRadius="20">
+
+                <StackLayout>
+                    <Entry
+                   Placeholder="Usuario" x:Name="TxtUsuario" TextColor="Black">
+                    </Entry>
+                    <Entry
+                   Placeholder="Contraseña" x:Name="TxtContraseña" TextColor="Black" IsPassword="True">
+
+                    </Entry>
+
+
+                    <Button
+                    Text="Registrar Usuario"
+                    TextColor="Black"
+                    Background="White"
+                    BackgroundColor="LightBlue"
+                    FontSize="15"
+                    Margin="10,5"
+                    Clicked="Registro">
+                    </Button>
+
+
+                    <Button
+                  
+                  Text= "Recuperar clave" 
+                  TextColor="Black"
+                  Background="White"
+                  BackgroundColor="LightBlue"
+                  FontSize="16"
+                  Margin="10,5,10,10"
+                  Clicked="Recuperar_Clave"
+                      >
+
+                    </Button>
+
+
+                    <Button
+                    Text="Ingresar"
+                    TextColor="Black"
+                    Font="20"
+                    CornerRadius="20"
+                    Clicked="Ingresar_Usuario">
+
+                    </Button>
+
+                </StackLayout>
+
+            </Frame>
+        </StackLayout>
+        
+        
+
+
+    </StackLayout> 
+             
+
+    
+    
+</ContentPage>
