@@ -7,7 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDS.PDC.Android", "PDS.PDC\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDS.PDC.iOS", "PDS.PDC\PDS.PDC.iOS\PDS.PDC.iOS.csproj", "{5692396F-326C-4915-9FF5-2B0ED92BAC42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDS.PDC", "PDS.PDC\PDS.PDC\PDS.PDC.csproj", "{4A784F91-FDF3-4468-89D5-195157CDD855}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDS.PDC", "PDS.PDC\PDS.PDC\PDS.PDC.csproj", "{4A784F91-FDF3-4468-89D5-195157CDD855}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B920847C-56E1-48E7-BBA9-54318707C392}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

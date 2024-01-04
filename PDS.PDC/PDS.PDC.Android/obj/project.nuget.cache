@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lKYx7EBrb5qAvQzSjBwoEwMKRmaSZoCi3ntPQnTVD6yJZLNV66Cj+QvrqG1lLUU17MCp4lJat3JEdRyng3aFlw==",
+  "dgSpecHash": "uo+pZI6OvadWWzpw8zh9wRpiUZtZU7GHW85kO6ahJkBmyJKAO8WrWgQABXd4VrmJx4xMTeF9za05/UovcG0doA==",
   "success": true,
   "projectFilePath": "C:\\Users\\juanp\\source\\repos\\PDS.PDC\\PDS.PDC\\PDS.PDC.Android\\PDS.PDC.Android.csproj",
   "expectedPackageFiles": [
@@ -67,6 +67,7 @@
     "C:\\Users\\juanp\\.nuget\\packages\\xamarin.androidx.viewpager2\\1.0.0.10\\xamarin.androidx.viewpager2.1.0.0.10.nupkg.sha512",
     "C:\\Users\\juanp\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\juanp\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\xamarin.forms.visual.material\\5.0.0.2622\\xamarin.forms.visual.material.5.0.0.2622.nupkg.sha512",
     "C:\\Users\\juanp\\.nuget\\packages\\xamarin.google.android.material\\1.4.0.2\\xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "C:\\Users\\juanp\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],

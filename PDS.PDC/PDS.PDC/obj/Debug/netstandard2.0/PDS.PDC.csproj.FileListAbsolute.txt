@@ -12,4 +12,7 @@ C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Xam
 C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\PDS.PDC.dll
 C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\refint\PDS.PDC.dll
 C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\PDS.PDC.pdb
-C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Views\PG_Inicio.xaml.g.cs
+C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Views\Registro.xaml.g.cs
+C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Views\LogIn.xaml.g.cs
+C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Views\Recuperar_Clave.xaml.g.cs
+C:\Users\juanp\source\repos\PDS.PDC\PDS.PDC\PDS.PDC\obj\Debug\netstandard2.0\Views\Inicio_app.xaml.g.cs

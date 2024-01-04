@@ -1,5 +1,5 @@
 ﻿using PDS.PDC.Services;
-
+using PDS.PDC.Views;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -14,7 +14,8 @@ namespace PDS.PDC
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new Page1();
+
+            MainPage = new NavigationPage(new LogIn());
         }
 
         protected override void OnStart()
